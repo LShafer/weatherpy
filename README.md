@@ -40,6 +40,8 @@ Your final notebook must:
 • Jupyter<br>
 • Pandas<br>
 • Numpy<br>
+• Open Weather API<br>
+• Citipy<br>
 
 ### Author
 Lindsey Shafer
