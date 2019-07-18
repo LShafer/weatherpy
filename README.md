@@ -35,11 +35,11 @@ Your final notebook must:
 • Save both a CSV of all data retrieved and png images for each scatter plot.<br>
 • Include a written description of three observable trends based on the data.
 
-### Programs Used
-• Matplotlib
-• Jupyter
-• Pandas
-• Numpy
+### Programs & Libraries Used
+• Matplotlib<br>
+• Jupyter<br>
+• Pandas<br>
+• Numpy<br>
 
 ### Author
 Lindsey Shafer
