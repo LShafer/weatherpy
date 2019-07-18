@@ -2,9 +2,9 @@
 
 ## Data Analysis and Conclusions
 
-1 - The highest temperatures are located in the cities closest to the equator (latitudes closest to 0). The lowest temperatures are found in the cities nearest the poles (highest and lowest latitudes). 
-2 - Cloud cover seems to have no relationship to the latitude and it has a nearly equal spread across all latitudes and cloudiness percentages. 
-3 - Humidity appears to have a wide variety across the latitudes, but the lowest values seem to concentrated between -40 and +40 degrees from the equator. This could possibly be an area for further investigation. 
+1 - The highest temperatures are located in the cities closest to the equator (latitudes closest to 0). The lowest temperatures are found in the cities nearest the poles (highest and lowest latitudes). <br>
+2 - Cloud cover seems to have no relationship to the latitude and it has a nearly equal spread across all latitudes and cloudiness percentages. <br>
+3 - Humidity appears to have a wide variety across the latitudes, but the lowest values seem to concentrated between -40 and +40 degrees from the equator. This could possibly be an area for further investigation. <br>
 
 ## Background
 
